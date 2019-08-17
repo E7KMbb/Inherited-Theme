@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:oneshot="false">
+    <item android:drawable="@*android:drawable/stat_sys_download_anim0" android:duration="160" />
+    <item android:drawable="@*android:drawable/stat_sys_download_anim1" android:duration="80" />
+    <item android:drawable="@*android:drawable/stat_sys_download_anim2" android:duration="80" />
+    <item android:drawable="@*android:drawable/stat_sys_download_anim3" android:duration="80" />
+    <item android:drawable="@*android:drawable/stat_sys_download_anim4" android:duration="80" />
+    <item android:drawable="@*android:drawable/stat_sys_download_anim5" android:duration="80" />
+    <item android:drawable="@android:drawable/ic_menu_add" android:duration="80" />
+    <item android:drawable="@android:drawable/ic_menu_agenda" android:duration="80" />
+    <item android:drawable="@android:drawable/ic_menu_always_landscape_portrait" android:duration="80" />
+    <item android:drawable="@android:drawable/ic_menu_call" android:duration="80" />
+</animation-list>
+
