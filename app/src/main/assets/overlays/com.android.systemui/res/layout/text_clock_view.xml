@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.clocks.TypographicClock xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:androidprv="http://schemas.android.com/apk/res-auto"
+   android:textColor="?android:colorAccent"
+   android:orientation="vertical"
+   android:id="@*com.android.systemui:id/custom_textclock_view"
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:layout_marginTop="@*com.android.systemui:dimen/custom_clock_top_margin"
+   android:layout_alignParentTop="true"
+   android:fontFamily="google-sans"
+   android:paddingStart="@*com.android.systemui:dimen/custom_clock_left_padding"
+   android:letterSpacing="0.03"
+   style="@*com.android.systemui:style/customtextclock_big_thin" />
