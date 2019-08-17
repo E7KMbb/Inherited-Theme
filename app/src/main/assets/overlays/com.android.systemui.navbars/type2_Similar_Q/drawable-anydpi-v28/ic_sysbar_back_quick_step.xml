@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--开通会员可提高反编译速度、资源代码自动转名称，以及激活智能编辑和自动补全功能-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+   android:height="1dp"
+   android:width="1dp"
+   android:viewportWidth="28.0"
+   android:viewportHeight="28.0">
+   <path
+      android:fillColor="#7F040303"
+      android:pathData="M16.78,10.03l-3.97,3.97l3.97,3.97l-1.06,1.06l-5.03,-5.03l5.03,-5.03z" />
+</vector>
