@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Accent -->
+    <color name="google_blue500">@*android:color/accent_material_light</color>                      <!-- Accent 1 -->
+    <color name="google_blue600">@*android:color/accent_material_light</color>                      <!-- Accent 2 -->
+</resources>

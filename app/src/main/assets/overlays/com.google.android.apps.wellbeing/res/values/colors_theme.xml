@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Colors -->
+    <color name="google_grey200">@*android:color/background_material_dark</color>                   <!-- Primary Dark -->
+    <color name="google_grey50">@*android:color/background_material_dark</color>                    <!-- Primary -->
+
+    <!-- Background -->
+    <color name="google_white">@*android:color/background_material_dark</color>                     <!-- Dashboard -->
+    <color name="design_default_color_surface">@*android:color/background_material_dark</color>
+    <color name="background_floating_material_light">@*android:color/background_material_dark</color><!-- Dialog -->
+
+    <!-- Divider -->
+    <color name="google_grey300">#1a000000</color>
+    <color name="google_grey100">#1a000000</color>
+
+    <!-- Text -->
+    <color name="pie_chart_label_color">#FFF</color>
+    <color name="secondary_grey">#b3FFFFFF</color>
+    <color name="google_grey900">#FFF</color>
+</resources>
