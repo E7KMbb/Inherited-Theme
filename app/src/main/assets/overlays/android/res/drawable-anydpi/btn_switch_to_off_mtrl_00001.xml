@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><!--for Darkion ONLY!!!!!, dont copy me then call me an asshole for accusing you of theft. And no, you're not allowed to use it for open-s templates-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="5dp"
+        android:gravity="center"
+        android:left="5dp"
+        android:right="5dp"
+        android:top="5dp">
+
+
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <solid android:color="?android:colorControlNormal" />
+            <corners android:radius="99dp" />
+            <stroke
+                android:width="2.0dip"
+                android:color="#00ffffff" />
+
+            <size
+                android:width="11dp"
+                android:height="8dp" />
+        </shape>
+    </item>
+
+</layer-list>
