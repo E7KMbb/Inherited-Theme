@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_material_dark">#FF241F1F</color>
+    <color name="background_floating_material_dark">#FF241F1F</color>
+</resources>
